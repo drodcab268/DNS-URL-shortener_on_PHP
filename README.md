@@ -1,1 +1,3 @@
 # DNS-URL-shortener_on_PHP
+
+In this repository we have a php form where introducing a large url...
