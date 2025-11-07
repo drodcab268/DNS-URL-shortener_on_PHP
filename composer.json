@@ -1,0 +1,7 @@
+{
+    "name": "drodcab/dns-url-shortener",
+    "description": "DNS URL shortener using TXT records and IONOS API",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
